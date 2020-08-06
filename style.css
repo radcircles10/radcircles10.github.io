@@ -20,10 +20,7 @@ p{
 body{
   background-image: url('https://upload.wikimedia.org/wikipedia/commons/f/fb/John_Constable_-_Cloud_Study_-_Google_Art_Project.jpg');
   background-repeat: no-repeat;
-  -webkit-background-style: cover;
-  -moz-background-style: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background-size: 1000px 500px;
   font-family: vidaloka;
   text-align: center;
 }
